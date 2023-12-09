@@ -1,0 +1,15 @@
+.Nav {
+  background-color: #e8e8e8;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.link {
+  text-decoration: none;
+  color: #4656a1;
+}
+.logo-img {
+  height: 100px;
+  width: 150px;
+  margin-left: 30px;
+}

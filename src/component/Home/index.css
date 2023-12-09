@@ -1,0 +1,33 @@
+.loader {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.successcont {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.successview-ul {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.successview-item {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.successview-logo {
+  height: 50px;
+  width: 50px;
+}
+.item-link {
+  text-decoration: none;
+  color: #475569;
+}

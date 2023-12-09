@@ -1,0 +1,22 @@
+.cid-cont {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+.itemDetailsCont {
+  display: flex;
+  box-shadow: 0px 0px 10px 0px #bfbfbf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.itemDetailsImg {
+  height: 300px;
+  width: 200px;
+  margin-right: 10px;
+}
+.itemdesdescont {
+  padding: 10px;
+}
